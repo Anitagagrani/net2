@@ -3,14 +3,14 @@ Blogging website which can easily be customized for any type of a blog. Technolo
 
 # Features:
 - Signing in 
-- Registration (mail verification included)
+- Registration
 - Creating/Editing/Deleting posts
 - Recommended posts section
 - Comment section
-- Filtering posts (tags or/and categories)
+- Filtering posts 
 - Searching for a post (keyword)
-- Approving commments (admin only)
-- Deleting comments (admin only)
+- Approving commments 
+- Deleting comments 
 
 
 HTML + CSS template used in this project is designed by UiPasta and modified by me. Design is enriched with animations.
